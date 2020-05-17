@@ -1,0 +1,45 @@
+body {
+    background-image: url(https://i.pinimg.com/originals/b4/bf/af/b4bfafa2dccc4cf3fe24f774b3f13b12.jpg);
+   font-family: sans-serif;
+}
+
+h1, h2  {
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-size: 50px;
+}
+
+#text {
+    padding: 10px;
+    width: 300px;
+}
+.form-section {
+    margin: 0 auto;
+    display: flex;
+align-items: center;
+    width: 100%;
+    flex-direction: column;
+  
+}
+#todo {
+    margin: 10px;
+    width: 250px;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+}
+.add {
+    font-weight: bold;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    width: 100px;
+    background-color: peru;
+}
+#out {
+    text-align: center;
+    font-size: 25px;
+}
+p {
+    font-size: 20px;
+}
